@@ -4,7 +4,7 @@ The UCSC Genome Browser is a widely used tool for visualizing and sharing genomi
 
 ## Raw access
 
-[https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb](https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb
+[https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb](https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb)
 
 [https://github.com/benoitballester/UCSC_hosting/raw/main/tcga_snpFabian_allEE_JasparRemapFilter_hg38.bb](https://github.com/benoitballester/UCSC_hosting/raw/main/tcga_snpFabian_allEE_JasparRemapFilter_hg38.bb)
 
