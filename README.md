@@ -2,9 +2,11 @@
 
 The UCSC Genome Browser is a widely used tool for visualizing and sharing genomic data. Hosting data on the UCSC Genome Browser allows researchers to explore and analyze their data in the context of the reference genome, making it a valuable resource for the scientific community.
 
-## Getting Started
+## Raw access
 
-We host data on the UCSC Genome Browser using github. 
+[https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb](https://github.com/benoitballester/UCSC_hosting/raw/main/snpFabian_allEE_JasparRemapFilter.bb
+
+[https://github.com/benoitballester/UCSC_hosting/raw/main/tcga_snpFabian_allEE_JasparRemapFilter_hg38.bb](https://github.com/benoitballester/UCSC_hosting/raw/main/tcga_snpFabian_allEE_JasparRemapFilter_hg38.bb)
 
 ## Resources
 
